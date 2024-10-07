@@ -7,3 +7,4 @@
 2) Unzip The Plug-ins
 3) Just Copy The Folder And Paste It In This Folder (C:\Program Files (x86)\Common Files\Adobe\CEP\extensions)
 4) Some Plug-ins Folder Contain The Activation Keys
+5) For .JSX Files, Just Paste Then In This Folder (C:\Program Files\Adobe\Adobe After Effects <VERSION>\Support Files\Scripts\ScriptUI Panels)
